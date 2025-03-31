@@ -1,4 +1,4 @@
-## Hey, there! 
+## Hey, there! ![Waving Hand](animated-wave.gif)
 
 <!--
 **mtsguerra/mtsguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
